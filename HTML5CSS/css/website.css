@@ -1,0 +1,32 @@
+body{
+    font-family:sans-serif;
+    color: #151313;
+    background-color: aliceblue;
+}
+
+nav{
+    background-color: #cececece;
+    margin: auto;
+    border: red;
+}
+nav ul{
+    border:  2px solid green;
+    padding-left: 0px;
+    text-align: center;
+}
+
+nav li{
+    word-spacing: normal;
+    line-break: auto;
+    font-style: italic;
+    font-stretch: expanded;
+    font-weight: 700;
+    display: inline-block;
+    list-style: none;
+    border: 0px solid black;
+    margin-top: 10px;
+    margin-right: 10px;
+    font-size: medium;
+    text-transform: uppercase;
+
+}

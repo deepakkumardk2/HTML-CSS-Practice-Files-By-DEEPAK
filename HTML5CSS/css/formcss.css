@@ -1,0 +1,12 @@
+*{
+    color: blue;
+}
+
+input[type="text"]
+{
+    color: brown;
+}
+
+h1{
+    color: fuchsia;
+}

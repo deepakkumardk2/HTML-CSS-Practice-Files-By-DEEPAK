@@ -1,0 +1,24 @@
+.mywebsite{
+    background-color: aqua;
+    margin:40px;
+    text-align: center;
+    border: solid chocolate;
+    width: 150-fit-content;
+    text-align-last: auto;
+}
+.p{
+    font-family: 'poppins',sans-serif;
+    border: solid;
+    background-color: aquamarine;
+    /* margin-left: 10px; */
+    padding-left: 20px;
+}
+.p
+{
+    border: solid;
+    margin-top: 30px;
+    font-family: 'poppins',sans-serif;
+    text-decoration: dashed;
+    background-color:#cdcdcd;
+    padding-left: 10px;
+}

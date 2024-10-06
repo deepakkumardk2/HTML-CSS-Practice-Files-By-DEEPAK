@@ -1,0 +1,26 @@
+/* *{
+    color: blue;
+} */
+
+
+body{
+    color: aqua;
+}
+
+.header{
+    color: blueviolet;
+}
+
+header p{
+    color: mediumspringgreen;
+}
+
+.main{
+    color: brown;
+    background-color: rgb(217, 208, 227);
+    border: 0cqh;
+    box-shadow: 0cqmax;
+}
+p{
+    color: firebrick;
+}
